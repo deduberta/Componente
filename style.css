@@ -1,0 +1,26 @@
+.footer {
+      padding: 5px;
+      position: fixed;
+      right: 1px;
+      bottom: 20px;
+      width: 100%;
+      background-color: #09D3AC;
+      color: white;
+      text-align: center;
+    font-size: 10px;
+  }
+
+li{
+    list-style-type: none;
+    color:black;
+    display:inline;
+    margin:2px;
+
+
+}
+
+li a{
+    font-size: 15px;
+}
+
+

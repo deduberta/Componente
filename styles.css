@@ -1,0 +1,23 @@
+.item-container{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    border: 2px solid #333;
+    overflow: hidden;
+}
+
+.item-container > div {
+    overflow: hidden;
+}
+
+.carousel-container{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.scroll-button{
+    position: absolute;
+}
